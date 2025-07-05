@@ -1,27 +1,64 @@
-# 🧾 Customer Analysis using SQL
+# Imarticus Virtual Internship Program 2025 🚀  
+Welcome to the documentation of my journey through the **Imarticus Virtual Internship Program – 2025 Edition**!
 
-A data analysis project built during my Data Analytics Internship at Imarticus Learning. The goal of this project was to derive business insights from customer data using SQL queries.
+This repository showcases my key learnings, hands-on projects, and data-driven solutions built during this internship — combining SQL, Python, EDA, and real-world case studies.
 
-## 🔍 Project Objective
+---
 
-To perform in-depth customer analysis by writing efficient SQL queries. The analysis focuses on understanding customer behavior, purchase patterns, and segmentation to support data-driven decision-making.
+## 🧠 What I Learned
 
-## 🛠 Tools & Technologies
+Over the span of this internship, I’ve explored and strengthened my skills in:
+
+- **SQL** – Built and queried databases using `CREATE`, `INSERT`, `SELECT`, `JOIN`, `GROUP BY`, and more.
+- **Exploratory Data Analysis (EDA)** using Python (`pandas`, `matplotlib`, `seaborn`)
+- **Data cleaning and preprocessing** for meaningful insights
+- **Business Communication** & **Personal Branding** for the corporate world
+- **Real-world analytics problem-solving** using structured, industry-focused datasets
+
+---
+
+## ✅ Projects Completed
+
+### 📊 1. MySQL Database Project
+Designed and populated relational tables from scratch.  
+Executed queries to extract insights using **joins, aggregations**, and **conditional filters**.
+
+### 🧪 2. Student Alcohol Consumption Analysis (ML + EDA Project)
+Analyzed multivariate relationships between student behavior, academics, and alcohol consumption.
+Performed data cleaning, visualization, and built ML models to classify alcohol risk levels with high accuracy.
+
+---
+
+## 💼 Skills Sharpened
+
+- Python (`pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`)
+- SQL for data analysis
+- Business communication & branding
+- Git & GitHub for version control
+- Team collaboration on real-world projects
+
+---
+
+## 🛠️ Tools Used
 
 - MySQL
-- MySQL Workbench
-- Excel 
+- Jupyter Notebook
+- Microsoft Excel
+- Git & GitHub
+- Zoom (Mentorship sessions & check-ins)
 
-## 📊 Dataset
+---
 
-- **Source**: Provided by Imarticus Learning  
-- **Content**: Customer profiles, transaction data, product info, etc.  
+## 📅 Duration
 
-## 💡 Key Analyses Performed
+**June 2025 – July 2025**  
+Currently at the midpoint of the internship. Excited to dive deeper into the next phase — from insights to impact.
 
-- Total revenue, average spend per customer
-- Most and least popular products
-- Monthly revenue trends
-- Customer segmentation by purchase frequency
-- Top 5 customers by total spending
+---
+
+## 🙏 Gratitude
+
+Huge thanks to the **Imarticus Learning team**, our mentors, and peers for guiding us through every challenge and helping us level up as data professionals-in-the-making.
+
+---
 
